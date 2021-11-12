@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github.com/dgdgfxsgfsdfs/dgdgfxsgfsdfs/blob/main/7087280.jpg" alt="Roniniscoding" height="200" style="margin-right: 20px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dgdgfxsgfsdfs&show_icons=true&theme=graywhite" alt="Github Stats" />
+</p>
 
-![Cover](https://github.com/dgdgfxsgfsdfs/dgdgfxsgfsdfs/blob/main/tkt.jpg)
+
+Welcome to my profile, as you can see I trying to do funny things, that can help people, if you like my codes, you can follow me ! 
+
+
