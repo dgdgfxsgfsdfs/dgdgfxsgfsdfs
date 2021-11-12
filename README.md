@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 </p>
 
 
-Welcome to my profile, as you can see I trying to do funny things, that can help people, if you like my codes, you can follow me ! 
+Welcome to my profile, as you can see I'm trying to do funny things, that can help people, if you like my codes, you can follow me ! 
 
 
