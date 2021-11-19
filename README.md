@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 Welcome to my profile, as you can see I'm trying to do funny things, that can help people, if you like my codes, you can follow me ! 
 
+<p align="center">
+<img src="https://profile-counter.glitch.me/dgdgfxsgfsdfs/count.svg" />
+</p>
+
 
