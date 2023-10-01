@@ -12,13 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1> Welcome to my profile </h1>
 <p align="center">
   <img src="https://github.com/dgdgfxsgfsdfs/dgdgfxsgfsdfs/blob/main/7087280.jpg" alt="Roniniscoding" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=dgdgfxsgfsdfs&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 
-
-Welcome to my profile, as you can see I'm trying to do funny things, that can help people, if you like my codes, you can follow me ! 
+as you can see I'm trying to do funny things, that can help people, if you like my codes, you can follow me ! 
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/dgdgfxsgfsdfs/count.svg" />
