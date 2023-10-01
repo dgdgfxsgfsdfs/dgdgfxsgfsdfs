@@ -18,7 +18,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=dgdgfxsgfsdfs&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 
-as you can see I'm trying to do funny things, that can help people, if you like my codes, you can follow me ! 
+I'm trying to use Computer science as a fun tool.
+I'm currently working with Web site, but also Cyber-sécurity.
 
 <p align="center">
 <img src="https://profile-counter.glitch.me/dgdgfxsgfsdfs/count.svg" />
